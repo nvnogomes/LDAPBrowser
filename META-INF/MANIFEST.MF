@@ -1,0 +1,10 @@
+Manifest-Version: 201506.26
+Application-Name: Active Directory Access
+Permissions: all-permissions
+Caller-Allowable-Codebase: *
+Codebase: *
+Application-Library-Allowable-Codebase: *
+Class-Path: unboundid-ldapsdk-se.jar
+Created-By: NVG
+Main-Class: FabaSync
+

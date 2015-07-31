@@ -1,0 +1,28 @@
+# IntelliJ
+*.iml
+digitalsigner_jarsign.properties
+digitalsigner_jarsign.xml
+
+## Directory-based project format:
+# User-specific stuff:
+.idea/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/compiler.xml
+.idea/vcs.xml
+
+# Output
+/out/production/
+/out/test/
+/out/artifacts/
+bin/
+
+# Eclipse
+.settings
+.classpath
+
